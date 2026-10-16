@@ -44,4 +44,8 @@ pip install -r requirements.txt
 python server.py
 ```
 
+### Prototip Görünümü
+![Akıllı Kavşak Prototip Düzeneği](assets/prototip.jpg)
+
+
 Final kart kodu durumunu düz metin olarak yazar, JSON üretmez ve panelden gelen süre komutlarını okumaz. İncelemek için çalışan arayüz simülasyon modudur.
